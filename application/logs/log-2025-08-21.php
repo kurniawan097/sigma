@@ -1967,3 +1967,609 @@ INFO - 2025-08-21 06:55:10 --> Controller Class Initialized
 INFO - 2025-08-21 11:55:10 --> Model "Md_barang" initialized
 INFO - 2025-08-21 11:55:10 --> Final output sent to browser
 DEBUG - 2025-08-21 11:55:10 --> Total execution time: 0.0487
+INFO - 2025-08-21 07:42:03 --> Config Class Initialized
+INFO - 2025-08-21 07:42:03 --> Hooks Class Initialized
+DEBUG - 2025-08-21 07:42:03 --> UTF-8 Support Enabled
+INFO - 2025-08-21 07:42:03 --> Utf8 Class Initialized
+INFO - 2025-08-21 07:42:03 --> URI Class Initialized
+INFO - 2025-08-21 07:42:03 --> Router Class Initialized
+INFO - 2025-08-21 07:42:03 --> Output Class Initialized
+INFO - 2025-08-21 07:42:03 --> Security Class Initialized
+DEBUG - 2025-08-21 07:42:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 07:42:03 --> Input Class Initialized
+INFO - 2025-08-21 07:42:03 --> Language Class Initialized
+INFO - 2025-08-21 07:42:03 --> Loader Class Initialized
+INFO - 2025-08-21 07:42:03 --> Helper loaded: url_helper
+INFO - 2025-08-21 07:42:03 --> Helper loaded: file_helper
+INFO - 2025-08-21 07:42:03 --> Helper loaded: form_helper
+INFO - 2025-08-21 07:42:03 --> Helper loaded: format_helper
+INFO - 2025-08-21 07:42:03 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 07:42:03 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 07:42:03 --> Helper loaded: session_helper
+INFO - 2025-08-21 07:42:03 --> Helper loaded: salary_helper
+INFO - 2025-08-21 07:42:03 --> Helper loaded: data_helper
+INFO - 2025-08-21 07:42:04 --> Database Driver Class Initialized
+INFO - 2025-08-21 07:42:04 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 07:42:04 --> Upload Class Initialized
+INFO - 2025-08-21 07:42:04 --> Email Class Initialized
+INFO - 2025-08-21 07:42:04 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 07:42:04 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 07:42:04 --> Model "Md_log" initialized
+INFO - 2025-08-21 07:42:04 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 07:42:04 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 07:42:04 --> Controller Class Initialized
+INFO - 2025-08-21 12:42:04 --> Model "Md_barang" initialized
+INFO - 2025-08-21 12:42:04 --> File loaded: D:\xampp\htdocs\sigma\application\views\index.php
+INFO - 2025-08-21 12:42:04 --> Final output sent to browser
+DEBUG - 2025-08-21 12:42:04 --> Total execution time: 1.1650
+INFO - 2025-08-21 07:42:05 --> Config Class Initialized
+INFO - 2025-08-21 07:42:05 --> Hooks Class Initialized
+DEBUG - 2025-08-21 07:42:05 --> UTF-8 Support Enabled
+INFO - 2025-08-21 07:42:05 --> Utf8 Class Initialized
+INFO - 2025-08-21 07:42:05 --> URI Class Initialized
+INFO - 2025-08-21 07:42:05 --> Router Class Initialized
+INFO - 2025-08-21 07:42:05 --> Output Class Initialized
+INFO - 2025-08-21 07:42:05 --> Security Class Initialized
+DEBUG - 2025-08-21 07:42:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 07:42:05 --> Input Class Initialized
+INFO - 2025-08-21 07:42:05 --> Language Class Initialized
+INFO - 2025-08-21 07:42:05 --> Loader Class Initialized
+INFO - 2025-08-21 07:42:05 --> Helper loaded: url_helper
+INFO - 2025-08-21 07:42:05 --> Helper loaded: file_helper
+INFO - 2025-08-21 07:42:05 --> Helper loaded: form_helper
+INFO - 2025-08-21 07:42:05 --> Helper loaded: format_helper
+INFO - 2025-08-21 07:42:05 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 07:42:05 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 07:42:05 --> Helper loaded: session_helper
+INFO - 2025-08-21 07:42:05 --> Helper loaded: salary_helper
+INFO - 2025-08-21 07:42:05 --> Helper loaded: data_helper
+INFO - 2025-08-21 07:42:05 --> Database Driver Class Initialized
+INFO - 2025-08-21 07:42:05 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 07:42:05 --> Upload Class Initialized
+INFO - 2025-08-21 07:42:05 --> Email Class Initialized
+INFO - 2025-08-21 07:42:05 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 07:42:05 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 07:42:05 --> Model "Md_log" initialized
+INFO - 2025-08-21 07:42:05 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 07:42:05 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 07:42:05 --> Controller Class Initialized
+INFO - 2025-08-21 12:42:05 --> Model "Md_barang" initialized
+INFO - 2025-08-21 07:43:01 --> Config Class Initialized
+INFO - 2025-08-21 07:43:01 --> Hooks Class Initialized
+DEBUG - 2025-08-21 07:43:01 --> UTF-8 Support Enabled
+INFO - 2025-08-21 07:43:01 --> Utf8 Class Initialized
+INFO - 2025-08-21 07:43:01 --> URI Class Initialized
+INFO - 2025-08-21 07:43:01 --> Router Class Initialized
+INFO - 2025-08-21 07:43:01 --> Output Class Initialized
+INFO - 2025-08-21 07:43:01 --> Security Class Initialized
+DEBUG - 2025-08-21 07:43:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 07:43:01 --> Input Class Initialized
+INFO - 2025-08-21 07:43:01 --> Language Class Initialized
+INFO - 2025-08-21 07:43:01 --> Loader Class Initialized
+INFO - 2025-08-21 07:43:01 --> Helper loaded: url_helper
+INFO - 2025-08-21 07:43:01 --> Helper loaded: file_helper
+INFO - 2025-08-21 07:43:01 --> Helper loaded: form_helper
+INFO - 2025-08-21 07:43:01 --> Helper loaded: format_helper
+INFO - 2025-08-21 07:43:01 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 07:43:01 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 07:43:01 --> Helper loaded: session_helper
+INFO - 2025-08-21 07:43:01 --> Helper loaded: salary_helper
+INFO - 2025-08-21 07:43:01 --> Helper loaded: data_helper
+INFO - 2025-08-21 07:43:01 --> Database Driver Class Initialized
+INFO - 2025-08-21 07:43:02 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 07:43:02 --> Upload Class Initialized
+INFO - 2025-08-21 07:43:02 --> Email Class Initialized
+INFO - 2025-08-21 07:43:02 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 07:43:02 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 07:43:02 --> Model "Md_log" initialized
+INFO - 2025-08-21 07:43:02 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 07:43:02 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 07:43:02 --> Controller Class Initialized
+INFO - 2025-08-21 12:43:02 --> Model "Md_barang" initialized
+INFO - 2025-08-21 12:43:03 --> File loaded: D:\xampp\htdocs\sigma\application\views\index.php
+INFO - 2025-08-21 12:43:03 --> Final output sent to browser
+DEBUG - 2025-08-21 12:43:03 --> Total execution time: 1.9495
+INFO - 2025-08-21 07:43:03 --> Config Class Initialized
+INFO - 2025-08-21 07:43:03 --> Hooks Class Initialized
+DEBUG - 2025-08-21 07:43:03 --> UTF-8 Support Enabled
+INFO - 2025-08-21 07:43:03 --> Utf8 Class Initialized
+INFO - 2025-08-21 07:43:03 --> URI Class Initialized
+INFO - 2025-08-21 07:43:03 --> Router Class Initialized
+INFO - 2025-08-21 07:43:03 --> Output Class Initialized
+INFO - 2025-08-21 07:43:03 --> Security Class Initialized
+DEBUG - 2025-08-21 07:43:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 07:43:03 --> Input Class Initialized
+INFO - 2025-08-21 07:43:03 --> Language Class Initialized
+INFO - 2025-08-21 07:43:03 --> Loader Class Initialized
+INFO - 2025-08-21 07:43:03 --> Helper loaded: url_helper
+INFO - 2025-08-21 07:43:03 --> Helper loaded: file_helper
+INFO - 2025-08-21 07:43:03 --> Helper loaded: form_helper
+INFO - 2025-08-21 07:43:03 --> Helper loaded: format_helper
+INFO - 2025-08-21 07:43:03 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 07:43:03 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 07:43:03 --> Helper loaded: session_helper
+INFO - 2025-08-21 07:43:03 --> Helper loaded: salary_helper
+INFO - 2025-08-21 07:43:03 --> Helper loaded: data_helper
+INFO - 2025-08-21 07:43:03 --> Database Driver Class Initialized
+INFO - 2025-08-21 07:43:03 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 07:43:03 --> Upload Class Initialized
+INFO - 2025-08-21 07:43:03 --> Email Class Initialized
+INFO - 2025-08-21 07:43:03 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 07:43:03 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 07:43:03 --> Model "Md_log" initialized
+INFO - 2025-08-21 07:43:03 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 07:43:03 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 07:43:03 --> Controller Class Initialized
+INFO - 2025-08-21 12:43:03 --> Model "Md_barang" initialized
+INFO - 2025-08-21 08:08:06 --> Config Class Initialized
+INFO - 2025-08-21 08:08:06 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:08:06 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:08:06 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:08:06 --> URI Class Initialized
+DEBUG - 2025-08-21 08:08:06 --> No URI present. Default controller set.
+INFO - 2025-08-21 08:08:06 --> Router Class Initialized
+INFO - 2025-08-21 08:08:06 --> Output Class Initialized
+INFO - 2025-08-21 08:08:06 --> Security Class Initialized
+DEBUG - 2025-08-21 08:08:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:08:06 --> Input Class Initialized
+INFO - 2025-08-21 08:08:06 --> Language Class Initialized
+INFO - 2025-08-21 08:08:06 --> Loader Class Initialized
+INFO - 2025-08-21 08:08:06 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:08:06 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:08:06 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:08:06 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:08:06 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:08:06 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:08:06 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:08:06 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:08:06 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:08:06 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:08:06 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:08:06 --> Upload Class Initialized
+INFO - 2025-08-21 08:08:06 --> Email Class Initialized
+INFO - 2025-08-21 08:08:06 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:08:06 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:08:06 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:08:06 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:08:06 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:08:06 --> Controller Class Initialized
+INFO - 2025-08-21 13:08:06 --> File loaded: D:\xampp\htdocs\sigma\application\views\auth.php
+INFO - 2025-08-21 13:08:06 --> Final output sent to browser
+DEBUG - 2025-08-21 13:08:06 --> Total execution time: 0.1589
+INFO - 2025-08-21 08:08:58 --> Config Class Initialized
+INFO - 2025-08-21 08:08:58 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:08:58 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:08:58 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:08:58 --> URI Class Initialized
+INFO - 2025-08-21 08:08:58 --> Router Class Initialized
+INFO - 2025-08-21 08:08:58 --> Output Class Initialized
+INFO - 2025-08-21 08:08:58 --> Security Class Initialized
+DEBUG - 2025-08-21 08:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:08:58 --> Input Class Initialized
+INFO - 2025-08-21 08:08:58 --> Language Class Initialized
+INFO - 2025-08-21 08:08:58 --> Loader Class Initialized
+INFO - 2025-08-21 08:08:58 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:08:58 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:08:58 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:08:58 --> Upload Class Initialized
+INFO - 2025-08-21 08:08:58 --> Email Class Initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:08:58 --> Controller Class Initialized
+INFO - 2025-08-21 13:08:58 --> Model "Md_barang" initialized
+INFO - 2025-08-21 08:08:58 --> Config Class Initialized
+INFO - 2025-08-21 08:08:58 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:08:58 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:08:58 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:08:58 --> URI Class Initialized
+DEBUG - 2025-08-21 08:08:58 --> No URI present. Default controller set.
+INFO - 2025-08-21 08:08:58 --> Router Class Initialized
+INFO - 2025-08-21 08:08:58 --> Output Class Initialized
+INFO - 2025-08-21 08:08:58 --> Security Class Initialized
+DEBUG - 2025-08-21 08:08:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:08:58 --> Input Class Initialized
+INFO - 2025-08-21 08:08:58 --> Language Class Initialized
+INFO - 2025-08-21 08:08:58 --> Loader Class Initialized
+INFO - 2025-08-21 08:08:58 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:08:58 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:08:58 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:08:58 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:08:58 --> Upload Class Initialized
+INFO - 2025-08-21 08:08:58 --> Email Class Initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:08:58 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:08:58 --> Controller Class Initialized
+INFO - 2025-08-21 13:08:58 --> File loaded: D:\xampp\htdocs\sigma\application\views\auth.php
+INFO - 2025-08-21 13:08:58 --> Final output sent to browser
+DEBUG - 2025-08-21 13:08:58 --> Total execution time: 0.0318
+INFO - 2025-08-21 08:09:18 --> Config Class Initialized
+INFO - 2025-08-21 08:09:18 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:09:18 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:09:18 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:09:18 --> URI Class Initialized
+DEBUG - 2025-08-21 08:09:18 --> No URI present. Default controller set.
+INFO - 2025-08-21 08:09:18 --> Router Class Initialized
+INFO - 2025-08-21 08:09:18 --> Output Class Initialized
+INFO - 2025-08-21 08:09:18 --> Security Class Initialized
+DEBUG - 2025-08-21 08:09:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:09:18 --> Input Class Initialized
+INFO - 2025-08-21 08:09:18 --> Language Class Initialized
+INFO - 2025-08-21 08:09:18 --> Loader Class Initialized
+INFO - 2025-08-21 08:09:18 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:09:18 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:09:18 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:09:18 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:09:18 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:09:18 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:09:18 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:09:18 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:09:18 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:09:18 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:09:18 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:09:18 --> Upload Class Initialized
+INFO - 2025-08-21 08:09:18 --> Email Class Initialized
+INFO - 2025-08-21 08:09:18 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:09:18 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:09:18 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:09:18 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:09:18 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:09:18 --> Controller Class Initialized
+INFO - 2025-08-21 13:09:18 --> File loaded: D:\xampp\htdocs\sigma\application\views\auth.php
+INFO - 2025-08-21 13:09:18 --> Final output sent to browser
+DEBUG - 2025-08-21 13:09:18 --> Total execution time: 0.0216
+INFO - 2025-08-21 08:16:04 --> Config Class Initialized
+INFO - 2025-08-21 08:16:04 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:16:04 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:16:04 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:16:04 --> URI Class Initialized
+INFO - 2025-08-21 08:16:04 --> Router Class Initialized
+INFO - 2025-08-21 08:16:04 --> Output Class Initialized
+INFO - 2025-08-21 08:16:04 --> Security Class Initialized
+DEBUG - 2025-08-21 08:16:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:16:04 --> Input Class Initialized
+INFO - 2025-08-21 08:16:04 --> Language Class Initialized
+INFO - 2025-08-21 08:16:04 --> Loader Class Initialized
+INFO - 2025-08-21 08:16:04 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:16:04 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:16:04 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:16:04 --> Upload Class Initialized
+INFO - 2025-08-21 08:16:04 --> Email Class Initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:16:04 --> Controller Class Initialized
+ERROR - 2025-08-21 13:16:04 --> Severity: Notice --> Undefined property: stdClass::$level_inventory D:\xampp\htdocs\sigma\application\controllers\Auth.php 136
+INFO - 2025-08-21 08:16:04 --> Config Class Initialized
+INFO - 2025-08-21 08:16:04 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:16:04 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:16:04 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:16:04 --> URI Class Initialized
+INFO - 2025-08-21 08:16:04 --> Router Class Initialized
+INFO - 2025-08-21 08:16:04 --> Output Class Initialized
+INFO - 2025-08-21 08:16:04 --> Security Class Initialized
+DEBUG - 2025-08-21 08:16:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:16:04 --> Input Class Initialized
+INFO - 2025-08-21 08:16:04 --> Language Class Initialized
+INFO - 2025-08-21 08:16:04 --> Loader Class Initialized
+INFO - 2025-08-21 08:16:04 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:16:04 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:16:04 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:16:04 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:16:04 --> Upload Class Initialized
+INFO - 2025-08-21 08:16:04 --> Email Class Initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:16:04 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:16:04 --> Controller Class Initialized
+INFO - 2025-08-21 13:16:04 --> Model "Md_barang" initialized
+INFO - 2025-08-21 13:16:04 --> File loaded: D:\xampp\htdocs\sigma\application\views\index.php
+INFO - 2025-08-21 13:16:04 --> Final output sent to browser
+DEBUG - 2025-08-21 13:16:04 --> Total execution time: 0.0371
+INFO - 2025-08-21 08:16:50 --> Config Class Initialized
+INFO - 2025-08-21 08:16:50 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:16:50 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:16:50 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:16:50 --> URI Class Initialized
+INFO - 2025-08-21 08:16:50 --> Router Class Initialized
+INFO - 2025-08-21 08:16:50 --> Output Class Initialized
+INFO - 2025-08-21 08:16:50 --> Security Class Initialized
+DEBUG - 2025-08-21 08:16:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:16:50 --> Input Class Initialized
+INFO - 2025-08-21 08:16:50 --> Language Class Initialized
+INFO - 2025-08-21 08:16:50 --> Loader Class Initialized
+INFO - 2025-08-21 08:16:50 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:16:50 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:16:50 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:16:50 --> Upload Class Initialized
+INFO - 2025-08-21 08:16:50 --> Email Class Initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:16:50 --> Controller Class Initialized
+INFO - 2025-08-21 13:16:50 --> Model "Md_barang" initialized
+INFO - 2025-08-21 13:16:50 --> File loaded: D:\xampp\htdocs\sigma\application\views\index.php
+INFO - 2025-08-21 13:16:50 --> Final output sent to browser
+DEBUG - 2025-08-21 13:16:50 --> Total execution time: 0.0242
+INFO - 2025-08-21 08:16:50 --> Config Class Initialized
+INFO - 2025-08-21 08:16:50 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:16:50 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:16:50 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:16:50 --> URI Class Initialized
+INFO - 2025-08-21 08:16:50 --> Router Class Initialized
+INFO - 2025-08-21 08:16:50 --> Output Class Initialized
+INFO - 2025-08-21 08:16:50 --> Security Class Initialized
+DEBUG - 2025-08-21 08:16:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:16:50 --> Input Class Initialized
+INFO - 2025-08-21 08:16:50 --> Language Class Initialized
+INFO - 2025-08-21 08:16:50 --> Loader Class Initialized
+INFO - 2025-08-21 08:16:50 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:16:50 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:16:50 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:16:50 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:16:50 --> Upload Class Initialized
+INFO - 2025-08-21 08:16:50 --> Email Class Initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:16:50 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:16:50 --> Controller Class Initialized
+INFO - 2025-08-21 13:16:50 --> Model "Md_barang" initialized
+INFO - 2025-08-21 08:17:16 --> Config Class Initialized
+INFO - 2025-08-21 08:17:16 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:17:16 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:17:16 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:17:16 --> URI Class Initialized
+INFO - 2025-08-21 08:17:16 --> Router Class Initialized
+INFO - 2025-08-21 08:17:16 --> Output Class Initialized
+INFO - 2025-08-21 08:17:16 --> Security Class Initialized
+DEBUG - 2025-08-21 08:17:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:17:16 --> Input Class Initialized
+INFO - 2025-08-21 08:17:16 --> Language Class Initialized
+INFO - 2025-08-21 08:17:16 --> Loader Class Initialized
+INFO - 2025-08-21 08:17:16 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:17:16 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:17:16 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:17:16 --> Upload Class Initialized
+INFO - 2025-08-21 08:17:16 --> Email Class Initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:17:16 --> Controller Class Initialized
+INFO - 2025-08-21 13:17:16 --> Model "Md_barang" initialized
+INFO - 2025-08-21 13:17:16 --> File loaded: D:\xampp\htdocs\sigma\application\views\index.php
+INFO - 2025-08-21 13:17:16 --> Final output sent to browser
+DEBUG - 2025-08-21 13:17:16 --> Total execution time: 0.0473
+INFO - 2025-08-21 08:17:16 --> Config Class Initialized
+INFO - 2025-08-21 08:17:16 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:17:16 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:17:16 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:17:16 --> URI Class Initialized
+INFO - 2025-08-21 08:17:16 --> Router Class Initialized
+INFO - 2025-08-21 08:17:16 --> Output Class Initialized
+INFO - 2025-08-21 08:17:16 --> Security Class Initialized
+DEBUG - 2025-08-21 08:17:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:17:16 --> Input Class Initialized
+INFO - 2025-08-21 08:17:16 --> Language Class Initialized
+INFO - 2025-08-21 08:17:16 --> Loader Class Initialized
+INFO - 2025-08-21 08:17:16 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:17:16 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:17:16 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:17:16 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:17:16 --> Upload Class Initialized
+INFO - 2025-08-21 08:17:16 --> Email Class Initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:17:16 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:17:16 --> Controller Class Initialized
+INFO - 2025-08-21 13:17:16 --> Model "Md_barang" initialized
+INFO - 2025-08-21 08:17:36 --> Config Class Initialized
+INFO - 2025-08-21 08:17:36 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:17:36 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:17:36 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:17:36 --> URI Class Initialized
+INFO - 2025-08-21 08:17:36 --> Router Class Initialized
+INFO - 2025-08-21 08:17:36 --> Output Class Initialized
+INFO - 2025-08-21 08:17:36 --> Security Class Initialized
+DEBUG - 2025-08-21 08:17:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:17:36 --> Input Class Initialized
+INFO - 2025-08-21 08:17:36 --> Language Class Initialized
+INFO - 2025-08-21 08:17:36 --> Loader Class Initialized
+INFO - 2025-08-21 08:17:36 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:17:36 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:17:36 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:17:36 --> Upload Class Initialized
+INFO - 2025-08-21 08:17:36 --> Email Class Initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:17:36 --> Controller Class Initialized
+INFO - 2025-08-21 13:17:36 --> Model "Md_barang" initialized
+INFO - 2025-08-21 13:17:36 --> File loaded: D:\xampp\htdocs\sigma\application\views\index.php
+INFO - 2025-08-21 13:17:36 --> Final output sent to browser
+DEBUG - 2025-08-21 13:17:36 --> Total execution time: 0.0230
+INFO - 2025-08-21 08:17:36 --> Config Class Initialized
+INFO - 2025-08-21 08:17:36 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:17:36 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:17:36 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:17:36 --> URI Class Initialized
+INFO - 2025-08-21 08:17:36 --> Router Class Initialized
+INFO - 2025-08-21 08:17:36 --> Output Class Initialized
+INFO - 2025-08-21 08:17:36 --> Security Class Initialized
+DEBUG - 2025-08-21 08:17:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:17:36 --> Input Class Initialized
+INFO - 2025-08-21 08:17:36 --> Language Class Initialized
+INFO - 2025-08-21 08:17:36 --> Loader Class Initialized
+INFO - 2025-08-21 08:17:36 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:17:36 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:17:36 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:17:36 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:17:36 --> Upload Class Initialized
+INFO - 2025-08-21 08:17:36 --> Email Class Initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:17:36 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:17:36 --> Controller Class Initialized
+INFO - 2025-08-21 13:17:36 --> Model "Md_barang" initialized
+INFO - 2025-08-21 08:18:35 --> Config Class Initialized
+INFO - 2025-08-21 08:18:35 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:18:35 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:18:35 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:18:35 --> URI Class Initialized
+INFO - 2025-08-21 08:18:35 --> Router Class Initialized
+INFO - 2025-08-21 08:18:35 --> Output Class Initialized
+INFO - 2025-08-21 08:18:35 --> Security Class Initialized
+DEBUG - 2025-08-21 08:18:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:18:35 --> Input Class Initialized
+INFO - 2025-08-21 08:18:35 --> Language Class Initialized
+INFO - 2025-08-21 08:18:35 --> Loader Class Initialized
+INFO - 2025-08-21 08:18:35 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:18:35 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:18:35 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:18:35 --> Upload Class Initialized
+INFO - 2025-08-21 08:18:35 --> Email Class Initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:18:35 --> Controller Class Initialized
+INFO - 2025-08-21 13:18:35 --> Model "Md_barang" initialized
+INFO - 2025-08-21 13:18:35 --> File loaded: D:\xampp\htdocs\sigma\application\views\index.php
+INFO - 2025-08-21 13:18:35 --> Final output sent to browser
+DEBUG - 2025-08-21 13:18:35 --> Total execution time: 0.0534
+INFO - 2025-08-21 08:18:35 --> Config Class Initialized
+INFO - 2025-08-21 08:18:35 --> Hooks Class Initialized
+DEBUG - 2025-08-21 08:18:35 --> UTF-8 Support Enabled
+INFO - 2025-08-21 08:18:35 --> Utf8 Class Initialized
+INFO - 2025-08-21 08:18:35 --> URI Class Initialized
+INFO - 2025-08-21 08:18:35 --> Router Class Initialized
+INFO - 2025-08-21 08:18:35 --> Output Class Initialized
+INFO - 2025-08-21 08:18:35 --> Security Class Initialized
+DEBUG - 2025-08-21 08:18:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-08-21 08:18:35 --> Input Class Initialized
+INFO - 2025-08-21 08:18:35 --> Language Class Initialized
+INFO - 2025-08-21 08:18:35 --> Loader Class Initialized
+INFO - 2025-08-21 08:18:35 --> Helper loaded: url_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: file_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: form_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: format_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: datetime_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: mandatory_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: session_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: salary_helper
+INFO - 2025-08-21 08:18:35 --> Helper loaded: data_helper
+INFO - 2025-08-21 08:18:35 --> Database Driver Class Initialized
+INFO - 2025-08-21 08:18:35 --> Session: Class initialized using 'database' driver.
+INFO - 2025-08-21 08:18:35 --> Upload Class Initialized
+INFO - 2025-08-21 08:18:35 --> Email Class Initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_notifikasi" initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_pengguna" initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_log" initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_divisi_pengguna" initialized
+INFO - 2025-08-21 08:18:35 --> Model "Md_absensi" initialized
+INFO - 2025-08-21 08:18:35 --> Controller Class Initialized
+INFO - 2025-08-21 13:18:35 --> Model "Md_barang" initialized
